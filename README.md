@@ -10,4 +10,4 @@ This is part two in the three part series of workshops. This workshop provides a
 
 
 ## December workshop: Slurm and the QTM cluster
-This is part three in the three part series of workshops. This workshop provides an introduction to the job scheduler, Slurm, that QTM uses for managing the GPU cluster. Attendees will learn how to submit jobs and run machine learning training scripts on the GPU cluster.
+This is part three in the three part series of workshops. This workshop provides an introduction to the job scheduler, Slurm, that QTM uses for managing the GPU cluster. Attendees will learn how to submit jobs and run machine learning training scripts on the GPU cluster. The recording is available [here](https://emory-my.sharepoint.com/:v:/g/personal/jajaco3_emory_edu/EYe_tZOccQ9EsDtVTSVeMtkB-PPszK2fSTLiy9WZJX22Kw) and the [slides](./workshop2slides-job-scheduler.pdf) are located in this repo.
